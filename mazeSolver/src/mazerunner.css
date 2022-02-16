@@ -1,0 +1,37 @@
+#topGrid
+{
+	-fx-hgap: 10;
+	-fx-vgap: 7;
+	-fx-alignment: center;
+}
+
+#topGrid Button 
+{ 
+	-fx-max-width: infinity; 
+}
+
+#hbox
+{
+	-fx-spacing: 5;
+	-fx-alignment: BASELINE_LEFT;
+}
+
+#hbox Button
+{
+	-fx-max-width: infinity; 
+}
+
+#combobox
+{
+	-fx-max-width: infinity; 
+}
+
+#spinner
+{
+	-fx-pref-width: 5em;
+}
+
+#textarea
+{
+	-fx-pref-height: 10em;
+}
